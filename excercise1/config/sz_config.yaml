@@ -1,0 +1,6 @@
+api_url: 'https://pstrain22.myridgelineapi.com/v1/api'
+api_key: "WyJlOTgxY2U2NjkwMjY0NjEyOTQ5N2MyM2Q1MzVkMTZmMiIsICJiYjA3YWMxZi03YjYzLTQxMTEtYjE1YS1kZmIxNzg2YmM4NmYiXQ=="
+excercise1:
+  run_date_start: "2022-01-01"
+  run_date_end: "2022-02-10"
+  price_source_id : "secmas:price-source:0343123d9413197674860b5547bde103ba0df833e42c43a7"

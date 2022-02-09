@@ -1,0 +1,5 @@
+api_url: 'https://pstrain22.myridgelineapi.com/v1/api'
+api_key: "WyJlOTgxY2U2NjkwMjY0NjEyOTQ5N2MyM2Q1MzVkMTZmMiIsICJiYjA3YWMxZi03YjYzLTQxMTEtYjE1YS1kZmIxNzg2YmM4NmYiXQ=="
+OptimizedSecurityPriceCheck:
+  run_date_start: "2022-02-01"
+  run_date_end: "2022-02-10"
