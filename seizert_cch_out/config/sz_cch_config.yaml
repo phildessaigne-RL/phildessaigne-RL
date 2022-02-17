@@ -1,6 +1,6 @@
 api_url: 'https://pstrain22.myridgelineapi.com/v1/api'
 api_key: "WyJlOTgxY2U2NjkwMjY0NjEyOTQ5N2MyM2Q1MzVkMTZmMiIsICJiYjA3YWMxZi03YjYzLTQxMTEtYjE1YS1kZmIxNzg2YmM4NmYiXQ=="
-excercise2:
-  port_group_name: "PhillyCheese - Portfolio Group"
-  override_run_date: "2021-09-30"
-  output_file_name: "output/PortfolioGroup_AppraisalReport.xlsx"
+SeizertCchOut:
+  watch_list_definition: "All Active Holdings"
+  override_run_date: "2022-02-17"
+  output_file_name: "output/MMDD_CCH_Out.csv"
