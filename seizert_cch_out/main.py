@@ -69,7 +69,7 @@ def find_cusip_for_instruments(watchlist_instruments_response, securities_df):
     instruments_cusip = []
     for instrument in watchlist_instruments_response:
         instrumentId = instrument['node']['instrumentId']
-        instruments_cusip.append(securities_df.loc[instrumentId]['ticker'])
+        instruments_cusip.append(securities_df.loc[instrumentId]['cusip'])
     instruments_cusip_df = pd.DataFrame(instruments_cusip, columns = ['CUSIP'] )
     return instruments_cusip_df
 

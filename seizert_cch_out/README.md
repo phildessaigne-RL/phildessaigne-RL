@@ -28,8 +28,8 @@ SeizertCchOut:
  
  **Ridgeline APIs Used:**
  ```
-LaunchHoldingsReport
-FetchExportDataSetResponse
-FetchPortfolioSleevesV2
+FetchSecurities
+FetchWatchlistDefinitions
+FetchWatchlistInstruments
 ```
  ****
